@@ -8,9 +8,7 @@
 
 Online food delivery platforms generate massive amounts of operational and customer data every day. This project analyses a real-world food delivery dataset (37,231 records) to uncover patterns in delivery performance, customer satisfaction, and traffic impact using R programming.
 
-**Author:** S. Laharika  
-**Roll No:** 23EG110C55  
-**Course:** B.Tech (CSE-DS)
+
 
 ---
 
